@@ -1,6 +1,6 @@
 <?php
 
-namespace PolyCrypto;
+namespace PolyCrypto\PolyCrypto;
 
 /**
  * Service for encrypting and decrypting data with openssl
