@@ -49,7 +49,7 @@
   },
   "autoload": {
     "psr-4": {
-      "PolyCrypto\\PolyCrypto\\": "src\"
+      "PolyCrypto\\PolyCrypto\\": "src/"
     }
   },
   "require-dev": {
