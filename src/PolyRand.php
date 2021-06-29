@@ -1,6 +1,6 @@
 <?php
 
-namespace PolyCrypto;
+namespace PolyCrypto\PolyCrypto;
 
 /**
  * Functions to generate random strings
