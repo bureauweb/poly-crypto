@@ -1,5 +1,5 @@
 {
-  "name": "poly-crypto/poly-crypto",
+  "name": "bureauweb/poly-crypto",
   "description": "High-level cryptographic functions that are interoperable between NodeJS and PHP 7.1+",
   "keywords": [
     "encryption",
