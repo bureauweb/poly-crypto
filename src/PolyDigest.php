@@ -1,6 +1,6 @@
 <?php
 
-namespace PolyCrypto;
+namespace PolyCrypto\PolyCrypto;
 
 /**
  * Calculate digests of strings
