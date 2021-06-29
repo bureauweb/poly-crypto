@@ -48,8 +48,8 @@
     "ext-openssl": "*"
   },
   "autoload": {
-    "psr-0": {
-      "PolyCrypto": "src"
+    "psr-4": {
+      "PolyCrypto\\PolyCrypto\\": "src\"
     }
   },
   "require-dev": {
